@@ -1,5 +1,6 @@
 package Classes;
 
+
 /*
 Задача 4: Класс для человека
 Описание задачи:
@@ -17,6 +18,8 @@ package Classes;
 Геттеры и сеттеры для всех полей.
 Переопределите методы equals и hashCode так, чтобы люди считались равными, если у них совпадают имя и возраст.
  */
+
+import java.util.Objects;
 
 public class Person {
     private String name;   // Имя

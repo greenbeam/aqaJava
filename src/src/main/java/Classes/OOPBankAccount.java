@@ -19,7 +19,7 @@ package Classes;
 Поля accountNumber и balance должны быть приватными, с геттерами и сеттерами.
 Полиморфизм:
 Используйте массив объектов BankAccount, чтобы показать работу методов для разных типов счетов.
- */
+
 
 abstract class OOPBankAccount {
     private String accountNumber;
@@ -113,4 +113,4 @@ abstract class OOPBankAccount {
             }
         }
 
-    }
+*/
